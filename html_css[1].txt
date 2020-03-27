@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <tittle>Biodata 11-7</titte>
+<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+<body>
+    <h1>11-7 SMK-SMAK Bogor</h1>
+    <P>Hello <br>
+    Namaku Wanda Ashifa Oktaviani, aku anak kedua dari tiga bersaudara. aku mempunyai kakak dan adik perempuan. aku bersekolah di smakbo tersayang, smakbo apa itu? klik tombol dibawah ini ya jika penasaran.<br>
+    <a href="http://www.smakbo.sch.id/"><button>klik disini</button></a> <br>
+    aku mau memperkenalkan diri aku nichh wkwk (alay)</P>
+    <h2>Biodata</h2>
+    <ul><li>TTL : Bogor,09 Oktober 2003 </li></ul>
+    <ul><li>Gmail : wandaashifa64@smakbo.sch.id </li></ul>
+    <ul></ul>
+</body>
+</html>
+
+body{
+     background-color: Yellow;
+}
+
+h1{
+   text-align: left;
+   color: purple;
+}
+
